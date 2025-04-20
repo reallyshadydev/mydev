@@ -3,6 +3,7 @@
 - Based on MyDoge Wallet
 - Copyright MyDoge Inc. 2023. All rights reserved.
 - Modified for Dogecoinev Network
+- **Shoutout to [@mydoge](https://github.com/mydoge-com)** for the original MyDoge Wallet, which we forked to create MyDev!
 
 ## 🚀 Quick start
 
@@ -20,4 +21,4 @@
 
 - Install [Extensions Reloader](https://chrome.google.com/webstore/detail/extensions-reloader/fimgfedafeadlieiabdeeaodndnlbhid?hl=en) Chrome extension to enable automatic extension reload after every build.
 
-- Run `yarn watch` to build and reload the extension with every file change.# mydev
+- Run `yarn watch` to build and reload the extension with every file change.
